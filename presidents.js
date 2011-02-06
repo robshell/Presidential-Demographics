@@ -4,7 +4,7 @@ var presidents = [
 	{"born": 2357781, "term_began": 2378925, "name": "Thomas Jefferson", "died": 2388178, "term_ended": 2381847, "party": "Democratic-Republican", "url": "Thomas_Jefferson.jpg"}, 
 	{"born": 2360675, "term_began": 2381847, "name": "James Madison", "died": 2391825, "term_ended": 2384769, "party": "Democratic-Republican", "url": "James_Madison.jpg"}, 
 	{"born": 2363275, "term_began": 2384769, "name": "James Monroe", "died": 2390004, "term_ended": 2387691, "party": "Democratic-Republican", "url": "James_Monroe.jpg"}, 
-	{"born": 2366636, "term_began": 2387691, "name": "John Quincy Adams", "died": 2396082, "term_ended": 2389152, "party": "Democratic-Republican", "url": "John_Adams.jpg"}, 
+	{"born": 2366636, "term_began": 2387691, "name": "John Quincy Adams", "died": 2396082, "term_ended": 2389152, "party": "Democratic-Republican", "url": "John_Quincy_Adams.jpg"}, 
 	{"born": 2366518, "term_began": 2389152, "name": "Andrew Jackson", "died": 2395092, "term_ended": 2392074, "party": "Democratic", "url": "Andrew_Jackson.jpg"}, 
 	{"born": 2372262, "term_began": 2392074, "name": "Martin Van Buren", "died": 2401347, "term_ended": 2393535, "party": "Democratic", "url": "Martin_Van_Buren.jpg"}, 
 	{"born": 2368676, "term_began": 2393535, "name": "William Harrison", "died": 2393566, "term_ended": 2393566, "party": "Whig", "url": "William_Harrison.jpg"}, 
